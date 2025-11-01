@@ -1,0 +1,362 @@
+-------------Error at 11/01/2025 20:34:13------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:34:13------------- 
+
+-------------Fatal at 11/01/2025 20:34:14------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:34:14------------- 
+
+-------------Error at 11/01/2025 20:34:29------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:34:29------------- 
+
+-------------Fatal at 11/01/2025 20:34:29------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:34:29------------- 
+
+-------------Error at 11/01/2025 20:35:25------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:35:25------------- 
+
+-------------Fatal at 11/01/2025 20:35:26------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:35:26------------- 
+
+-------------Error at 11/01/2025 20:35:41------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:35:41------------- 
+
+-------------Fatal at 11/01/2025 20:35:42------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:35:42------------- 
+
+-------------Error at 11/01/2025 20:35:56------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:35:56------------- 
+
+-------------Fatal at 11/01/2025 20:35:57------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:35:57------------- 
+
+-------------Error at 11/01/2025 20:36:12------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:36:12------------- 
+
+-------------Fatal at 11/01/2025 20:36:12------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:36:12------------- 
+
+-------------Error at 11/01/2025 20:36:27------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:36:27------------- 
+
+-------------Fatal at 11/01/2025 20:36:28------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:36:28------------- 
+
+-------------Error at 11/01/2025 20:36:43------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:36:43------------- 
+
+-------------Fatal at 11/01/2025 20:36:43------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:36:43------------- 
+
+-------------Error at 11/01/2025 20:36:58------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:36:58------------- 
+
+-------------Fatal at 11/01/2025 20:36:59------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:36:59------------- 
+
+-------------Error at 11/01/2025 20:37:13------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:37:13------------- 
+
+-------------Fatal at 11/01/2025 20:37:14------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:37:14------------- 
+
+-------------Error at 11/01/2025 20:37:29------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:37:29------------- 
+
+-------------Fatal at 11/01/2025 20:37:30------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:37:30------------- 
+
+-------------Error at 11/01/2025 20:37:45------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:37:45------------- 
+
+-------------Fatal at 11/01/2025 20:37:45------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:37:45------------- 
+
+-------------Error at 11/01/2025 20:38:00------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:38:00------------- 
+
+-------------Fatal at 11/01/2025 20:38:01------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:38:01------------- 
+
+-------------Error at 11/01/2025 20:38:16------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:38:16------------- 
+
+-------------Fatal at 11/01/2025 20:38:16------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:38:16------------- 
+
+-------------Error at 11/01/2025 20:38:31------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:38:31------------- 
+
+-------------Fatal at 11/01/2025 20:38:32------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:38:32------------- 
+
+-------------Error at 11/01/2025 20:38:47------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:38:47------------- 
+
+-------------Fatal at 11/01/2025 20:38:48------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:38:48------------- 
+
+-------------Error at 11/01/2025 20:39:02------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:39:02------------- 
+
+-------------Fatal at 11/01/2025 20:39:03------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:39:03------------- 
+
+-------------Error at 11/01/2025 20:39:18------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:39:18------------- 
+
+-------------Fatal at 11/01/2025 20:39:19------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:39:19------------- 
+
+-------------Error at 11/01/2025 20:39:33------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:39:33------------- 
+
+-------------Fatal at 11/01/2025 20:39:34------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:39:34------------- 
+
+-------------Error at 11/01/2025 20:39:49------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:39:49------------- 
+
+-------------Fatal at 11/01/2025 20:39:50------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:39:50------------- 
+
+-------------Error at 11/01/2025 20:40:04------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:40:04------------- 
+
+-------------Fatal at 11/01/2025 20:40:05------------- 
+ Stump.Server.BaseServer.ServerBase.HandleCrashException -> 
+	 Crash Exception : Une seule utilisation de chaque adresse de socket (protocole/adresse réseau/port) est habituellement autorisée
+ Source: System -> Void DoBind(System.Net.EndPoint, System.Net.SocketAddress)
+ Stack Trace:
+   à System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   à Stump.Server.AuthServer.IPC.IPCHost.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\IPC\IPCHost.cs:ligne 121
+   à Stump.Server.AuthServer.AuthServer.Start() dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Server\Stump.Server.AuthServer\AuthServer.cs:ligne 210
+   à Stump.GUI.AuthConsole.Program.Main(String[] args) dans D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\Program.cs:ligne 21 
+-------------Fatal at 11/01/2025 20:40:05------------- 
+
+-------------Error at 11/01/2025 20:40:20------------- 
+ Stump.Server.BaseServer.Plugins.PluginManager.LoadAllPlugins -> 
+	Cannot load unexistant plugin path ./plugins/ 
+-------------Error at 11/01/2025 20:40:20------------- 
+

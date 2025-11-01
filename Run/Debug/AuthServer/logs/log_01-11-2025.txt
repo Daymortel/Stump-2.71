@@ -1,0 +1,852 @@
+[Info] <11/01/2025 20:22:00> Initializing Configuration...
+[Info] <11/01/2025 20:22:02> Config file created
+[Info] <11/01/2025 20:22:02> Initialize Task Pool
+[Info] <11/01/2025 20:22:02> Initializing Network Interfaces...
+[Info] <11/01/2025 20:22:02> Register Plugins...
+[Info] <11/01/2025 20:34:09> Initializing Configuration...
+[Info] <11/01/2025 20:34:10> Initialize Task Pool
+[Info] <11/01/2025 20:34:10> Initializing Network Interfaces...
+[Info] <11/01/2025 20:34:10> Register Plugins...
+[Info] <11/01/2025 20:34:13> Loading Plugins...
+[Info] <11/01/2025 20:34:13> Initializing Database...
+[Info] <11/01/2025 20:34:13> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:34:13> Opening Database...
+[Info] <11/01/2025 20:34:14> Register Messages...
+[Info] <11/01/2025 20:34:14> Register Packets Handlers...
+[Info] <11/01/2025 20:34:14> Register Commands...
+[Info] <11/01/2025 20:34:14> Start World Servers Manager
+[Info] <11/01/2025 20:34:14> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:34:14> Initialize Account Manager
+[Info] <11/01/2025 20:34:14> Initialize IPC Server..
+[Info] <11/01/2025 20:34:14> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:34:14> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:34:14> Initialize DataManagers
+[Info] <11/01/2025 20:34:14> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:34:14> Start Ipc Server
+[Info] <11/01/2025 20:34:25> Initializing Configuration...
+[Info] <11/01/2025 20:34:25> Initialize Task Pool
+[Info] <11/01/2025 20:34:25> Initializing Network Interfaces...
+[Info] <11/01/2025 20:34:25> Register Plugins...
+[Info] <11/01/2025 20:34:29> Loading Plugins...
+[Info] <11/01/2025 20:34:29> Initializing Database...
+[Info] <11/01/2025 20:34:29> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:34:29> Opening Database...
+[Info] <11/01/2025 20:34:29> Register Messages...
+[Info] <11/01/2025 20:34:29> Register Packets Handlers...
+[Info] <11/01/2025 20:34:29> Register Commands...
+[Info] <11/01/2025 20:34:29> Start World Servers Manager
+[Info] <11/01/2025 20:34:29> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:34:29> Initialize Account Manager
+[Info] <11/01/2025 20:34:29> Initialize IPC Server..
+[Info] <11/01/2025 20:34:29> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:34:29> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:34:29> Initialize DataManagers
+[Info] <11/01/2025 20:34:29> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:34:29> Start Ipc Server
+[Info] <11/01/2025 20:35:22> Initializing Configuration...
+[Info] <11/01/2025 20:35:22> Initialize Task Pool
+[Info] <11/01/2025 20:35:22> Initializing Network Interfaces...
+[Info] <11/01/2025 20:35:22> Register Plugins...
+[Info] <11/01/2025 20:35:25> Loading Plugins...
+[Info] <11/01/2025 20:35:25> Initializing Database...
+[Info] <11/01/2025 20:35:25> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:35:26> Opening Database...
+[Info] <11/01/2025 20:35:26> Register Messages...
+[Info] <11/01/2025 20:35:26> Register Packets Handlers...
+[Info] <11/01/2025 20:35:26> Register Commands...
+[Info] <11/01/2025 20:35:26> Start World Servers Manager
+[Info] <11/01/2025 20:35:26> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:35:26> Initialize Account Manager
+[Info] <11/01/2025 20:35:26> Initialize IPC Server..
+[Info] <11/01/2025 20:35:26> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:35:26> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:35:26> Initialize DataManagers
+[Info] <11/01/2025 20:35:26> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:35:26> Start Ipc Server
+[Info] <11/01/2025 20:35:37> Initializing Configuration...
+[Info] <11/01/2025 20:35:38> Initialize Task Pool
+[Info] <11/01/2025 20:35:38> Initializing Network Interfaces...
+[Info] <11/01/2025 20:35:38> Register Plugins...
+[Info] <11/01/2025 20:35:41> Loading Plugins...
+[Info] <11/01/2025 20:35:41> Initializing Database...
+[Info] <11/01/2025 20:35:41> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:35:41> Opening Database...
+[Info] <11/01/2025 20:35:41> Register Messages...
+[Info] <11/01/2025 20:35:41> Register Packets Handlers...
+[Info] <11/01/2025 20:35:41> Register Commands...
+[Info] <11/01/2025 20:35:41> Start World Servers Manager
+[Info] <11/01/2025 20:35:41> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:35:41> Initialize Account Manager
+[Info] <11/01/2025 20:35:41> Initialize IPC Server..
+[Info] <11/01/2025 20:35:41> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:35:41> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:35:41> Initialize DataManagers
+[Info] <11/01/2025 20:35:41> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:35:41> Start Ipc Server
+[Info] <11/01/2025 20:35:53> Initializing Configuration...
+[Info] <11/01/2025 20:35:53> Initialize Task Pool
+[Info] <11/01/2025 20:35:53> Initializing Network Interfaces...
+[Info] <11/01/2025 20:35:53> Register Plugins...
+[Info] <11/01/2025 20:35:56> Loading Plugins...
+[Info] <11/01/2025 20:35:56> Initializing Database...
+[Info] <11/01/2025 20:35:56> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:35:57> Opening Database...
+[Info] <11/01/2025 20:35:57> Register Messages...
+[Info] <11/01/2025 20:35:57> Register Packets Handlers...
+[Info] <11/01/2025 20:35:57> Register Commands...
+[Info] <11/01/2025 20:35:57> Start World Servers Manager
+[Info] <11/01/2025 20:35:57> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:35:57> Initialize Account Manager
+[Info] <11/01/2025 20:35:57> Initialize IPC Server..
+[Info] <11/01/2025 20:35:57> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:35:57> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:35:57> Initialize DataManagers
+[Info] <11/01/2025 20:35:57> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:35:57> Start Ipc Server
+[Info] <11/01/2025 20:36:08> Initializing Configuration...
+[Info] <11/01/2025 20:36:09> Initialize Task Pool
+[Info] <11/01/2025 20:36:09> Initializing Network Interfaces...
+[Info] <11/01/2025 20:36:09> Register Plugins...
+[Info] <11/01/2025 20:36:12> Loading Plugins...
+[Info] <11/01/2025 20:36:12> Initializing Database...
+[Info] <11/01/2025 20:36:12> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:36:12> Opening Database...
+[Info] <11/01/2025 20:36:12> Register Messages...
+[Info] <11/01/2025 20:36:12> Register Packets Handlers...
+[Info] <11/01/2025 20:36:12> Register Commands...
+[Info] <11/01/2025 20:36:12> Start World Servers Manager
+[Info] <11/01/2025 20:36:12> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:12> Initialize Account Manager
+[Info] <11/01/2025 20:36:12> Initialize IPC Server..
+[Info] <11/01/2025 20:36:12> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:36:12> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:36:12> Initialize DataManagers
+[Info] <11/01/2025 20:36:12> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:12> Start Ipc Server
+[Info] <11/01/2025 20:36:24> Initializing Configuration...
+[Info] <11/01/2025 20:36:24> Initialize Task Pool
+[Info] <11/01/2025 20:36:24> Initializing Network Interfaces...
+[Info] <11/01/2025 20:36:24> Register Plugins...
+[Info] <11/01/2025 20:36:27> Loading Plugins...
+[Info] <11/01/2025 20:36:27> Initializing Database...
+[Info] <11/01/2025 20:36:27> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:36:27> Opening Database...
+[Info] <11/01/2025 20:36:28> Register Messages...
+[Info] <11/01/2025 20:36:28> Register Packets Handlers...
+[Info] <11/01/2025 20:36:28> Register Commands...
+[Info] <11/01/2025 20:36:28> Start World Servers Manager
+[Info] <11/01/2025 20:36:28> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:28> Initialize Account Manager
+[Info] <11/01/2025 20:36:28> Initialize IPC Server..
+[Info] <11/01/2025 20:36:28> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:36:28> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:36:28> Initialize DataManagers
+[Info] <11/01/2025 20:36:28> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:28> Start Ipc Server
+[Info] <11/01/2025 20:36:39> Initializing Configuration...
+[Info] <11/01/2025 20:36:39> Initialize Task Pool
+[Info] <11/01/2025 20:36:39> Initializing Network Interfaces...
+[Info] <11/01/2025 20:36:39> Register Plugins...
+[Info] <11/01/2025 20:36:43> Loading Plugins...
+[Info] <11/01/2025 20:36:43> Initializing Database...
+[Info] <11/01/2025 20:36:43> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:36:43> Opening Database...
+[Info] <11/01/2025 20:36:43> Register Messages...
+[Info] <11/01/2025 20:36:43> Register Packets Handlers...
+[Info] <11/01/2025 20:36:43> Register Commands...
+[Info] <11/01/2025 20:36:43> Start World Servers Manager
+[Info] <11/01/2025 20:36:43> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:43> Initialize Account Manager
+[Info] <11/01/2025 20:36:43> Initialize IPC Server..
+[Info] <11/01/2025 20:36:43> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:36:43> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:36:43> Initialize DataManagers
+[Info] <11/01/2025 20:36:43> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:43> Start Ipc Server
+[Info] <11/01/2025 20:36:55> Initializing Configuration...
+[Info] <11/01/2025 20:36:55> Initialize Task Pool
+[Info] <11/01/2025 20:36:55> Initializing Network Interfaces...
+[Info] <11/01/2025 20:36:55> Register Plugins...
+[Info] <11/01/2025 20:36:58> Loading Plugins...
+[Info] <11/01/2025 20:36:58> Initializing Database...
+[Info] <11/01/2025 20:36:58> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:36:58> Opening Database...
+[Info] <11/01/2025 20:36:58> Register Messages...
+[Info] <11/01/2025 20:36:59> Register Packets Handlers...
+[Info] <11/01/2025 20:36:59> Register Commands...
+[Info] <11/01/2025 20:36:59> Start World Servers Manager
+[Info] <11/01/2025 20:36:59> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:59> Initialize Account Manager
+[Info] <11/01/2025 20:36:59> Initialize IPC Server..
+[Info] <11/01/2025 20:36:59> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:36:59> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:36:59> Initialize DataManagers
+[Info] <11/01/2025 20:36:59> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:36:59> Start Ipc Server
+[Info] <11/01/2025 20:37:10> Initializing Configuration...
+[Info] <11/01/2025 20:37:10> Initialize Task Pool
+[Info] <11/01/2025 20:37:10> Initializing Network Interfaces...
+[Info] <11/01/2025 20:37:10> Register Plugins...
+[Info] <11/01/2025 20:37:13> Loading Plugins...
+[Info] <11/01/2025 20:37:13> Initializing Database...
+[Info] <11/01/2025 20:37:13> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:37:14> Opening Database...
+[Info] <11/01/2025 20:37:14> Register Messages...
+[Info] <11/01/2025 20:37:14> Register Packets Handlers...
+[Info] <11/01/2025 20:37:14> Register Commands...
+[Info] <11/01/2025 20:37:14> Start World Servers Manager
+[Info] <11/01/2025 20:37:14> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:37:14> Initialize Account Manager
+[Info] <11/01/2025 20:37:14> Initialize IPC Server..
+[Info] <11/01/2025 20:37:14> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:37:14> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:37:14> Initialize DataManagers
+[Info] <11/01/2025 20:37:14> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:37:14> Start Ipc Server
+[Info] <11/01/2025 20:37:26> Initializing Configuration...
+[Info] <11/01/2025 20:37:26> Initialize Task Pool
+[Info] <11/01/2025 20:37:26> Initializing Network Interfaces...
+[Info] <11/01/2025 20:37:26> Register Plugins...
+[Info] <11/01/2025 20:37:29> Loading Plugins...
+[Info] <11/01/2025 20:37:29> Initializing Database...
+[Info] <11/01/2025 20:37:29> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:37:29> Opening Database...
+[Info] <11/01/2025 20:37:29> Register Messages...
+[Info] <11/01/2025 20:37:30> Register Packets Handlers...
+[Info] <11/01/2025 20:37:30> Register Commands...
+[Info] <11/01/2025 20:37:30> Start World Servers Manager
+[Info] <11/01/2025 20:37:30> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:37:30> Initialize Account Manager
+[Info] <11/01/2025 20:37:30> Initialize IPC Server..
+[Info] <11/01/2025 20:37:30> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:37:30> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:37:30> Initialize DataManagers
+[Info] <11/01/2025 20:37:30> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:37:30> Start Ipc Server
+[Info] <11/01/2025 20:37:41> Initializing Configuration...
+[Info] <11/01/2025 20:37:41> Initialize Task Pool
+[Info] <11/01/2025 20:37:41> Initializing Network Interfaces...
+[Info] <11/01/2025 20:37:41> Register Plugins...
+[Info] <11/01/2025 20:37:45> Loading Plugins...
+[Info] <11/01/2025 20:37:45> Initializing Database...
+[Info] <11/01/2025 20:37:45> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:37:45> Opening Database...
+[Info] <11/01/2025 20:37:45> Register Messages...
+[Info] <11/01/2025 20:37:45> Register Packets Handlers...
+[Info] <11/01/2025 20:37:45> Register Commands...
+[Info] <11/01/2025 20:37:45> Start World Servers Manager
+[Info] <11/01/2025 20:37:45> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:37:45> Initialize Account Manager
+[Info] <11/01/2025 20:37:45> Initialize IPC Server..
+[Info] <11/01/2025 20:37:45> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:37:45> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:37:45> Initialize DataManagers
+[Info] <11/01/2025 20:37:45> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:37:45> Start Ipc Server
+[Info] <11/01/2025 20:37:57> Initializing Configuration...
+[Info] <11/01/2025 20:37:57> Initialize Task Pool
+[Info] <11/01/2025 20:37:57> Initializing Network Interfaces...
+[Info] <11/01/2025 20:37:57> Register Plugins...
+[Info] <11/01/2025 20:38:00> Loading Plugins...
+[Info] <11/01/2025 20:38:00> Initializing Database...
+[Info] <11/01/2025 20:38:00> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:38:00> Opening Database...
+[Info] <11/01/2025 20:38:01> Register Messages...
+[Info] <11/01/2025 20:38:01> Register Packets Handlers...
+[Info] <11/01/2025 20:38:01> Register Commands...
+[Info] <11/01/2025 20:38:01> Start World Servers Manager
+[Info] <11/01/2025 20:38:01> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:01> Initialize Account Manager
+[Info] <11/01/2025 20:38:01> Initialize IPC Server..
+[Info] <11/01/2025 20:38:01> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:38:01> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:38:01> Initialize DataManagers
+[Info] <11/01/2025 20:38:01> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:01> Start Ipc Server
+[Info] <11/01/2025 20:38:12> Initializing Configuration...
+[Info] <11/01/2025 20:38:12> Initialize Task Pool
+[Info] <11/01/2025 20:38:12> Initializing Network Interfaces...
+[Info] <11/01/2025 20:38:12> Register Plugins...
+[Info] <11/01/2025 20:38:16> Loading Plugins...
+[Info] <11/01/2025 20:38:16> Initializing Database...
+[Info] <11/01/2025 20:38:16> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:38:16> Opening Database...
+[Info] <11/01/2025 20:38:16> Register Messages...
+[Info] <11/01/2025 20:38:16> Register Packets Handlers...
+[Info] <11/01/2025 20:38:16> Register Commands...
+[Info] <11/01/2025 20:38:16> Start World Servers Manager
+[Info] <11/01/2025 20:38:16> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:16> Initialize Account Manager
+[Info] <11/01/2025 20:38:16> Initialize IPC Server..
+[Info] <11/01/2025 20:38:16> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:38:16> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:38:16> Initialize DataManagers
+[Info] <11/01/2025 20:38:16> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:16> Start Ipc Server
+[Info] <11/01/2025 20:38:28> Initializing Configuration...
+[Info] <11/01/2025 20:38:28> Initialize Task Pool
+[Info] <11/01/2025 20:38:28> Initializing Network Interfaces...
+[Info] <11/01/2025 20:38:28> Register Plugins...
+[Info] <11/01/2025 20:38:31> Loading Plugins...
+[Info] <11/01/2025 20:38:31> Initializing Database...
+[Info] <11/01/2025 20:38:31> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:38:31> Opening Database...
+[Info] <11/01/2025 20:38:32> Register Messages...
+[Info] <11/01/2025 20:38:32> Register Packets Handlers...
+[Info] <11/01/2025 20:38:32> Register Commands...
+[Info] <11/01/2025 20:38:32> Start World Servers Manager
+[Info] <11/01/2025 20:38:32> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:32> Initialize Account Manager
+[Info] <11/01/2025 20:38:32> Initialize IPC Server..
+[Info] <11/01/2025 20:38:32> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:38:32> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:38:32> Initialize DataManagers
+[Info] <11/01/2025 20:38:32> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:32> Start Ipc Server
+[Info] <11/01/2025 20:38:43> Initializing Configuration...
+[Info] <11/01/2025 20:38:43> Initialize Task Pool
+[Info] <11/01/2025 20:38:43> Initializing Network Interfaces...
+[Info] <11/01/2025 20:38:43> Register Plugins...
+[Info] <11/01/2025 20:38:47> Loading Plugins...
+[Info] <11/01/2025 20:38:47> Initializing Database...
+[Info] <11/01/2025 20:38:47> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:38:47> Opening Database...
+[Info] <11/01/2025 20:38:47> Register Messages...
+[Info] <11/01/2025 20:38:47> Register Packets Handlers...
+[Info] <11/01/2025 20:38:47> Register Commands...
+[Info] <11/01/2025 20:38:47> Start World Servers Manager
+[Info] <11/01/2025 20:38:47> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:47> Initialize Account Manager
+[Info] <11/01/2025 20:38:47> Initialize IPC Server..
+[Info] <11/01/2025 20:38:47> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:38:47> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:38:48> Initialize DataManagers
+[Info] <11/01/2025 20:38:48> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:38:48> Start Ipc Server
+[Info] <11/01/2025 20:38:59> Initializing Configuration...
+[Info] <11/01/2025 20:38:59> Initialize Task Pool
+[Info] <11/01/2025 20:38:59> Initializing Network Interfaces...
+[Info] <11/01/2025 20:38:59> Register Plugins...
+[Info] <11/01/2025 20:39:02> Loading Plugins...
+[Info] <11/01/2025 20:39:02> Initializing Database...
+[Info] <11/01/2025 20:39:02> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:39:02> Opening Database...
+[Info] <11/01/2025 20:39:03> Register Messages...
+[Info] <11/01/2025 20:39:03> Register Packets Handlers...
+[Info] <11/01/2025 20:39:03> Register Commands...
+[Info] <11/01/2025 20:39:03> Start World Servers Manager
+[Info] <11/01/2025 20:39:03> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:03> Initialize Account Manager
+[Info] <11/01/2025 20:39:03> Initialize IPC Server..
+[Info] <11/01/2025 20:39:03> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:39:03> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:39:03> Initialize DataManagers
+[Info] <11/01/2025 20:39:03> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:03> Start Ipc Server
+[Info] <11/01/2025 20:39:14> Initializing Configuration...
+[Info] <11/01/2025 20:39:14> Initialize Task Pool
+[Info] <11/01/2025 20:39:14> Initializing Network Interfaces...
+[Info] <11/01/2025 20:39:15> Register Plugins...
+[Info] <11/01/2025 20:39:18> Loading Plugins...
+[Info] <11/01/2025 20:39:18> Initializing Database...
+[Info] <11/01/2025 20:39:18> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:39:18> Opening Database...
+[Info] <11/01/2025 20:39:18> Register Messages...
+[Info] <11/01/2025 20:39:18> Register Packets Handlers...
+[Info] <11/01/2025 20:39:18> Register Commands...
+[Info] <11/01/2025 20:39:18> Start World Servers Manager
+[Info] <11/01/2025 20:39:18> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:18> Initialize Account Manager
+[Info] <11/01/2025 20:39:18> Initialize IPC Server..
+[Info] <11/01/2025 20:39:18> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:39:18> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:39:18> Initialize DataManagers
+[Info] <11/01/2025 20:39:19> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:19> Start Ipc Server
+[Info] <11/01/2025 20:39:30> Initializing Configuration...
+[Info] <11/01/2025 20:39:30> Initialize Task Pool
+[Info] <11/01/2025 20:39:30> Initializing Network Interfaces...
+[Info] <11/01/2025 20:39:30> Register Plugins...
+[Info] <11/01/2025 20:39:33> Loading Plugins...
+[Info] <11/01/2025 20:39:33> Initializing Database...
+[Info] <11/01/2025 20:39:33> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:39:33> Opening Database...
+[Info] <11/01/2025 20:39:34> Register Messages...
+[Info] <11/01/2025 20:39:34> Register Packets Handlers...
+[Info] <11/01/2025 20:39:34> Register Commands...
+[Info] <11/01/2025 20:39:34> Start World Servers Manager
+[Info] <11/01/2025 20:39:34> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:34> Initialize Account Manager
+[Info] <11/01/2025 20:39:34> Initialize IPC Server..
+[Info] <11/01/2025 20:39:34> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:39:34> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:39:34> Initialize DataManagers
+[Info] <11/01/2025 20:39:34> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:34> Start Ipc Server
+[Info] <11/01/2025 20:39:46> Initializing Configuration...
+[Info] <11/01/2025 20:39:46> Initialize Task Pool
+[Info] <11/01/2025 20:39:46> Initializing Network Interfaces...
+[Info] <11/01/2025 20:39:46> Register Plugins...
+[Info] <11/01/2025 20:39:49> Loading Plugins...
+[Info] <11/01/2025 20:39:49> Initializing Database...
+[Info] <11/01/2025 20:39:49> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:39:49> Opening Database...
+[Info] <11/01/2025 20:39:49> Register Messages...
+[Info] <11/01/2025 20:39:49> Register Packets Handlers...
+[Info] <11/01/2025 20:39:49> Register Commands...
+[Info] <11/01/2025 20:39:49> Start World Servers Manager
+[Info] <11/01/2025 20:39:49> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:49> Initialize Account Manager
+[Info] <11/01/2025 20:39:49> Initialize IPC Server..
+[Info] <11/01/2025 20:39:49> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:39:49> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:39:49> Initialize DataManagers
+[Info] <11/01/2025 20:39:49> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:39:49> Start Ipc Server
+[Info] <11/01/2025 20:40:01> Initializing Configuration...
+[Info] <11/01/2025 20:40:01> Initialize Task Pool
+[Info] <11/01/2025 20:40:01> Initializing Network Interfaces...
+[Info] <11/01/2025 20:40:01> Register Plugins...
+[Info] <11/01/2025 20:40:04> Loading Plugins...
+[Info] <11/01/2025 20:40:04> Initializing Database...
+[Info] <11/01/2025 20:40:04> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:40:04> Opening Database...
+[Info] <11/01/2025 20:40:05> Register Messages...
+[Info] <11/01/2025 20:40:05> Register Packets Handlers...
+[Info] <11/01/2025 20:40:05> Register Commands...
+[Info] <11/01/2025 20:40:05> Start World Servers Manager
+[Info] <11/01/2025 20:40:05> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:40:05> Initialize Account Manager
+[Info] <11/01/2025 20:40:05> Initialize IPC Server..
+[Info] <11/01/2025 20:40:05> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:40:05> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:40:05> Initialize DataManagers
+[Info] <11/01/2025 20:40:05> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:40:05> Start Ipc Server
+[Info] <11/01/2025 20:40:16> Initializing Configuration...
+[Info] <11/01/2025 20:40:16> Initialize Task Pool
+[Info] <11/01/2025 20:40:16> Initializing Network Interfaces...
+[Info] <11/01/2025 20:40:16> Register Plugins...
+[Info] <11/01/2025 20:40:20> Loading Plugins...
+[Info] <11/01/2025 20:40:20> Initializing Database...
+[Info] <11/01/2025 20:40:20> Initialize 'MongoLogger'
+[Info] <11/01/2025 20:40:20> Opening Database...
+[Info] <11/01/2025 20:40:20> Register Messages...
+[Info] <11/01/2025 20:40:20> Register Packets Handlers...
+[Info] <11/01/2025 20:40:20> Register Commands...
+[Info] <11/01/2025 20:40:20> Start World Servers Manager
+[Info] <11/01/2025 20:40:20> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:40:20> Initialize Account Manager
+[Info] <11/01/2025 20:40:20> Initialize IPC Server..
+[Info] <11/01/2025 20:40:20> Initialize 'ConnectionHandler'
+[Info] <11/01/2025 20:40:20> message in queue Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:40:20> Initialize DataManagers
+[Info] <11/01/2025 20:40:20> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:40:20> Start Ipc Server
+[Info] <11/01/2025 20:40:20> Starting Console Handler Interface...
+[Info] <11/01/2025 20:40:20> Start listening on port : 435...
+[Info] <11/01/2025 20:40:20> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Info] <11/01/2025 20:40:20> Execute msg Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Info] <11/01/2025 20:40:21> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Debug] <11/01/2025 20:40:21> TaskPool 'IO Task Pool' update lagged (54ms) (msg:10, timers:0/7)
+[Debug] <11/01/2025 20:40:21> Stump.Core.Threading.SelfRunningTaskPool+<>c__DisplayClass37_0.<AddTimer>b__0
+[Debug] <11/01/2025 20:40:21> Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Debug] <11/01/2025 20:40:21> Stump.Core.Threading.SelfRunningTaskPool+<>c__DisplayClass37_0.<AddTimer>b__0
+[Debug] <11/01/2025 20:40:21> Stump.Core.Threading.SelfRunningTaskPool+<>c__DisplayClass37_0.<AddTimer>b__0
+[Debug] <11/01/2025 20:40:21> Stump.Server.AuthServer.Database.UserGroupDefaultValues+<>c.<CreateDefaultValues>b__0_0
+[Debug] <11/01/2025 20:40:21> Stump.Core.Threading.SelfRunningTaskPool+<>c__DisplayClass37_0.<AddTimer>b__0
+[Debug] <11/01/2025 20:40:21> Stump.Core.Threading.SelfRunningTaskPool+<>c__DisplayClass37_0.<AddTimer>b__0
+[Debug] <11/01/2025 20:40:21> Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass17_0.<Initialize>b__1
+[Debug] <11/01/2025 20:40:21> Stump.Core.Threading.SelfRunningTaskPool+<>c__DisplayClass37_0.<AddTimer>b__0
+[Debug] <11/01/2025 20:40:21> Stump.Core.Threading.SelfRunningTaskPool+<>c__DisplayClass37_0.<AddTimer>b__0
+[Info] <11/01/2025 20:45:41> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:45:41> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:45:41> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 20:45:41> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 20:45:41> ExecuteInContext Action Method: Void <CreateWorld>b__0()
+[Info] <11/01/2025 20:45:41> World Jiva created
+[Info] <11/01/2025 20:45:41> ExecuteInContext Action Method: Void <RequestConnection>b__0()
+[Info] <11/01/2025 20:45:41> Registered World : "Jiva" <Id : 1> <localhost>
+[Info] <11/01/2025 20:45:41> ExecuteInContext Action Method: Void <ChangeWorldState>b__0()
+[Info] <11/01/2025 20:45:41> Opening Database connection for 'Jiva' server
+[Info] <11/01/2025 20:45:41> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 20:45:41> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Debug] <11/01/2025 20:45:41> TaskPool 'IO Task Pool' update lagged (136ms) (msg:1, timers:0/9)
+[Debug] <11/01/2025 20:45:41> Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 20:48:34> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:48:34> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:48:34> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 20:48:34> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:48:34> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:48:34> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:48:34> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:48:34> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 20:50:51> message in queue Stump.Server.AuthServer.Managers.AccountManager+<>c__DisplayClass31_0.<CreateAccount>b__0
+[Info] <11/01/2025 20:50:51> Execute msg Stump.Server.AuthServer.Managers.AccountManager+<>c__DisplayClass31_0.<CreateAccount>b__0
+[Info] <11/01/2025 20:52:43> Client <127.0.0.1> connected
+[Info] <11/01/2025 20:52:44> message in queue IdentificationMessage
+[Debug] <11/01/2025 20:52:44> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 20:52:44> Execute msg IdentificationMessage
+[Debug] <11/01/2025 20:52:44> TaskPool 'IO Task Pool' update lagged (55ms) (msg:1, timers:0/9)
+[Debug] <11/01/2025 20:52:44> IdentificationMessage
+[Info] <11/01/2025 20:52:44> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 20:52:44> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 20:52:44> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 20:52:44> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Debug] <11/01/2025 20:52:44> TaskPool 'IO Task Pool' update lagged (53ms) (msg:2, timers:0/9)
+[Debug] <11/01/2025 20:52:44> ClearIdentificationMessage
+[Debug] <11/01/2025 20:52:44> Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 20:54:34> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:54:34> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:54:34> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 20:54:34> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:54:34> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:54:35> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:54:35> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:54:35> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 20:54:35> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:54:35> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:54:35> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:54:35> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:54:35> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 20:54:35> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:54:35> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:54:49> Client <127.0.0.1> (dydy22) disconnected
+[Info] <11/01/2025 20:54:55> Client <127.0.0.1> connected
+[Info] <11/01/2025 20:54:55> message in queue IdentificationMessage
+[Debug] <11/01/2025 20:54:55> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 20:54:55> Execute msg IdentificationMessage
+[Info] <11/01/2025 20:54:55> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 20:54:55> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 20:54:55> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 20:54:55> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 20:55:11> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 20:55:11> Unregistered "Jiva" <Id : 1> <localhost>
+[Info] <11/01/2025 20:55:11> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 20:55:11> message in queue Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 20:55:11> Execute msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 20:55:11> NOTRUNNING??!! msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 20:55:11> re-register NOTRUNNING! Taskpoll
+[Info] <11/01/2025 20:55:35> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:55:35> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:55:35> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 20:55:35> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 20:55:35> ExecuteInContext Action Method: Void <RequestConnection>b__0()
+[Info] <11/01/2025 20:55:35> Registered World : "Tylezia" <Id : 290> <localhost>
+[Info] <11/01/2025 20:55:35> ExecuteInContext Action Method: Void <ChangeWorldState>b__0()
+[Info] <11/01/2025 20:55:35> Opening Database connection for 'Tylezia' server
+[Info] <11/01/2025 20:55:35> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 20:55:35> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Debug] <11/01/2025 20:55:35> TaskPool 'IO Task Pool' update lagged (102ms) (msg:1, timers:1/11)
+[Debug] <11/01/2025 20:55:35> Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 20:59:58> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:59:58> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:59:58> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 20:59:58> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:59:58> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 20:59:58> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:59:58> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 20:59:58> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:00:29> message in queue ServerSelectionMessage
+[Info] <11/01/2025 21:00:29> Execute msg ServerSelectionMessage
+[Info] <11/01/2025 21:00:29> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:00:30> Client <127.0.0.1> (dydy22) disconnected
+[Info] <11/01/2025 21:00:33> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:00:33> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:05:49> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 21:05:49> Unregistered "Tylezia" <Id : 290> <localhost>
+[Info] <11/01/2025 21:05:49> message in queue Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:05:49> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 21:05:49> Execute msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:05:49> NOTRUNNING??!! msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:05:49> re-register NOTRUNNING! Taskpoll
+[Info] <11/01/2025 21:06:08> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:06:08> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:06:08> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:06:08> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:06:08> ExecuteInContext Action Method: Void <RequestConnection>b__0()
+[Info] <11/01/2025 21:06:08> Registered World : "Tylezia" <Id : 290> <localhost>
+[Info] <11/01/2025 21:06:08> ExecuteInContext Action Method: Void <ChangeWorldState>b__0()
+[Info] <11/01/2025 21:06:08> Opening Database connection for 'Tylezia' server
+[Info] <11/01/2025 21:06:08> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:06:08> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Debug] <11/01/2025 21:06:08> TaskPool 'IO Task Pool' update lagged (114ms) (msg:1, timers:0/13)
+[Debug] <11/01/2025 21:06:08> Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:06:19> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:06:19> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:06:19> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:06:19> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:06:19> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:06:19> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:06:19> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:06:19> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:12:03> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:12:03> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:12:03> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:12:03> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:12:03> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:12:04> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:12:04> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:12:04> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:12:08> message in queue ServerSelectionMessage
+[Info] <11/01/2025 21:12:08> Execute msg ServerSelectionMessage
+[Info] <11/01/2025 21:12:08> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:12:09> Client <127.0.0.1> (dydy22) disconnected
+[Info] <11/01/2025 21:12:11> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:12:11> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Debug] <11/01/2025 21:12:11> TaskPool 'IPCClient Task Pool' update lagged (169ms) (msg:1, timers:0/0)
+[Debug] <11/01/2025 21:12:11> Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:17:04> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:17:04> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:17:04> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:17:04> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:17:04> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:17:04> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:17:04> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:17:05> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:17:05> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:17:05> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:17:05> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:17:06> Client <127.0.0.1> (dydy22) disconnected
+[Debug] <11/01/2025 21:17:06> TaskPool 'IO Task Pool' update lagged (68ms) (msg:0, timers:1/13)
+[Info] <11/01/2025 21:17:08> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:17:08> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:18:04> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:18:04> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:18:04> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:18:04> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:18:04> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:18:05> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:18:05> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:18:05> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:18:05> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:18:05> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:18:05> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:18:06> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:18:06> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:18:06> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:18:06> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:19:58> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:19:58> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:19:58> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:19:58> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:19:58> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:19:58> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:19:58> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:19:59> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:19:59> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:19:59> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:19:59> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:20:00> Client <127.0.0.1> (dydy22) disconnected
+[Debug] <11/01/2025 21:20:00> TaskPool 'IO Task Pool' update lagged (62ms) (msg:0, timers:1/13)
+[Info] <11/01/2025 21:20:02> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:20:02> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:22:40> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:22:40> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:22:40> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:22:40> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:22:41> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:22:41> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:22:41> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:22:41> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:22:41> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:22:41> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:22:41> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:22:42> Client <127.0.0.1> (dydy22) disconnected
+[Debug] <11/01/2025 21:22:42> TaskPool 'IO Task Pool' update lagged (67ms) (msg:0, timers:1/13)
+[Info] <11/01/2025 21:22:44> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:22:45> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:24:05> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:24:05> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:24:05> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:24:05> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:24:05> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:24:07> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:24:07> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:24:07> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:24:07> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:24:07> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:24:07> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:24:07> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:24:07> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:24:07> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:24:07> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:25:09> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:25:09> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:25:09> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:25:09> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:25:09> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:25:09> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:25:09> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:09> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:09> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:25:09> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:25:09> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:25:10> Client <127.0.0.1> (dydy22) disconnected
+[Debug] <11/01/2025 21:25:11> TaskPool 'IO Task Pool' update lagged (63ms) (msg:0, timers:2/13)
+[Info] <11/01/2025 21:25:13> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:13> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:28> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:28> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:28> message in queue Stump.Server.AuthServer.Managers.AccountManager+<>c__DisplayClass33_0.<CreateAccountCharacter>b__0
+[Info] <11/01/2025 21:25:28> Execute msg Stump.Server.AuthServer.Managers.AccountManager+<>c__DisplayClass33_0.<CreateAccountCharacter>b__0
+[Info] <11/01/2025 21:25:32> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:32> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:25:32> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:26:07> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:26:07> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:26:07> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:26:07> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:26:07> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:26:07> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:26:08> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:26:08> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:26:08> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:26:08> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:26:08> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:26:09> Client <127.0.0.1> (dydy22) disconnected
+[Debug] <11/01/2025 21:26:09> TaskPool 'IO Task Pool' update lagged (304ms) (msg:0, timers:1/13)
+[Info] <11/01/2025 21:26:11> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:26:12> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:26:15> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:26:15> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:26:15> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:27:21> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:27:21> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:27:21> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:27:21> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:27:21> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:27:21> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:27:21> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:27:21> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:27:21> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:27:21> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:27:23> message in queue ServerSelectionMessage
+[Info] <11/01/2025 21:27:23> Execute msg ServerSelectionMessage
+[Info] <11/01/2025 21:27:23> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:27:25> Client <127.0.0.1> (dydy22) disconnected
+[Info] <11/01/2025 21:27:27> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:27:27> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:27:30> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:27:30> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:27:30> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:30:07> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:30:07> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:30:07> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:30:07> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:30:07> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:30:08> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:30:08> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:30:08> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:30:08> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:30:08> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:30:08> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:30:09> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:30:09> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:30:09> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:30:09> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:34:24> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:34:24> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:34:24> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:34:24> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:34:24> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:34:24> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:34:25> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:25> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:25> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:34:25> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:34:25> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:34:26> Client <127.0.0.1> (dydy22) disconnected
+[Info] <11/01/2025 21:34:28> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:28> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:33> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:33> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:33> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:34:36> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 21:34:36> Unregistered "Tylezia" <Id : 290> <localhost>
+[Info] <11/01/2025 21:34:36> message in queue Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:34:36> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 21:34:36> Execute msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:34:36> NOTRUNNING??!! msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:34:36> re-register NOTRUNNING! Taskpoll
+[Info] <11/01/2025 21:34:59> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:59> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:34:59> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:34:59> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:34:59> ExecuteInContext Action Method: Void <RequestConnection>b__0()
+[Info] <11/01/2025 21:34:59> Registered World : "Tylezia" <Id : 290> <localhost>
+[Info] <11/01/2025 21:34:59> ExecuteInContext Action Method: Void <ChangeWorldState>b__0()
+[Info] <11/01/2025 21:34:59> Opening Database connection for 'Tylezia' server
+[Info] <11/01/2025 21:34:59> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:34:59> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Debug] <11/01/2025 21:34:59> TaskPool 'IO Task Pool' update lagged (101ms) (msg:1, timers:0/15)
+[Debug] <11/01/2025 21:34:59> Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:35:05> message in queue Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:35:06> Execute msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:35:06> NOTRUNNING??!! msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:35:06> re-register NOTRUNNING! Taskpoll
+[Info] <11/01/2025 21:36:00> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:36:00> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:36:00> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:36:00> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:36:00> ExecuteInContext Action Method: Void <RequestConnection>b__0()
+[Info] <11/01/2025 21:36:00> Registered World : "Tylezia" <Id : 290> <localhost>
+[Info] <11/01/2025 21:36:00> ExecuteInContext Action Method: Void <ChangeWorldState>b__0()
+[Info] <11/01/2025 21:36:00> Opening Database connection for 'Tylezia' server
+[Info] <11/01/2025 21:36:00> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:36:00> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Debug] <11/01/2025 21:36:00> TaskPool 'IO Task Pool' update lagged (104ms) (msg:1, timers:0/17)
+[Debug] <11/01/2025 21:36:00> Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass46_0.<ProcessMessage>b__0
+[Info] <11/01/2025 21:42:44> Client <127.0.0.1> connected
+[Info] <11/01/2025 21:42:44> message in queue IdentificationMessage
+[Debug] <11/01/2025 21:42:44> Received Unknown packet : ClientKeyMessage
+[Info] <11/01/2025 21:42:44> Execute msg IdentificationMessage
+[Info] <11/01/2025 21:42:45> message in queue ClearIdentificationMessage
+[Info] <11/01/2025 21:42:45> Execute msg ClearIdentificationMessage
+[Info] <11/01/2025 21:42:45> message in queue Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:42:45> Execute msg Stump.Server.AuthServer.Handlers.Connection.ConnectionHandler+<>c__DisplayClass6_1.<HandleClearIdentificationMessage>b__2
+[Info] <11/01/2025 21:43:54> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:43:54> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:43:54> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:43:54> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:43:54> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:43:54> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:43:54> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:43:54> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:44:00> message in queue ServerSelectionMessage
+[Info] <11/01/2025 21:44:00> Execute msg ServerSelectionMessage
+[Info] <11/01/2025 21:44:01> ExecuteInContext Action Method: Void <AddTimer>b__0()
+[Info] <11/01/2025 21:44:02> Client <127.0.0.1> (dydy22) disconnected
+[Debug] <11/01/2025 21:44:02> TaskPool 'IO Task Pool' update lagged (59ms) (msg:0, timers:1/17)
+[Info] <11/01/2025 21:44:04> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:44:04> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:44:07> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:44:07> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:44:07> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:44:07> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:44:07> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:44:08> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:44:08> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:44:08> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:49:54> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:49:54> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:49:54> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:49:54> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:49:54> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:49:57> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:49:57> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:49:57> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:49:57> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:49:57> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:49:58> message in queue Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:49:58> Execute msg Stump.Server.AuthServer.IPC.IPCClient+<>c__DisplayClass44_0.<BuildMessage>b__0
+[Info] <11/01/2025 21:49:58> ExecuteInContext Action Method: Void <Handle>b__0()
+[Info] <11/01/2025 21:49:58> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:49:58> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass25_0.<ChangeWorldState>b__0
+[Info] <11/01/2025 21:54:53> message in queue Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 21:54:53> Unregistered "Tylezia" <Id : 290> <localhost>
+[Info] <11/01/2025 21:54:53> message in queue Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:54:53> Execute msg Stump.Server.AuthServer.Managers.WorldServerManager+<>c__DisplayClass30_0.<RemoveWorld>b__0
+[Info] <11/01/2025 21:54:53> Execute msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:54:53> NOTRUNNING??!! msg Stump.Server.AuthServer.IPC.IPCClient.<Disconnect>b__51_0
+[Info] <11/01/2025 21:54:53> re-register NOTRUNNING! Taskpoll
