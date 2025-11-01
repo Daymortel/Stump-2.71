@@ -1,0 +1,17 @@
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\obj\Debug\Stump.DofusProtocol.Messages.csproj.AssemblyReference.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\obj\Debug\Stump.DofusProtocol.Messages.csproj.CoreCompileInputs.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\obj\Debug\Stump.DofusProtocol.Messages.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\obj\Debug\Stump.DofusProtocol.Messages.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Messages.dll.config
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Messages.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Messages.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.Core.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Classes.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\zlib.net.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.Core.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.Core.dll.config
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Classes.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Messages\obj\Debug\Stump.Do.081336CB.Up2Date

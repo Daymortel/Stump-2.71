@@ -1,0 +1,6 @@
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.AssemblyReference.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb

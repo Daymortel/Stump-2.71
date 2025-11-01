@@ -1,0 +1,14 @@
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.AssemblyReference.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Types.csproj.CoreCompileInputs.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll.config
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Classes.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.Core.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\zlib.net.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.Core.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.Core.dll.config
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\obj\Debug\Stump.Do.1A60AC7C.Up2Date
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\DofusProtocol\Types\obj\Debug\Stump.DofusProtocol.Classes.pdb

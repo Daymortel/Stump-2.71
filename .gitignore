@@ -1,0 +1,6 @@
+Run/
+.idea/
+.vs/
+packages/
+*.zip
+.fake

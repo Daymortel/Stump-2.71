@@ -1,0 +1,17 @@
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\obj\Debug\Stump.GUI.AuthConsole.csproj.AssemblyReference.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\obj\Debug\Stump.GUI.AuthConsole.csproj.CoreCompileInputs.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\sql_update\18_to_19.sql
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\sql_update\20_to_21.sql
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\sql_update\1_to_2.sql
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\sql_update\21_to_22.sql
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\sql_update\22_to_23.sql
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\sql_update\23_to_24.sql
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\swf_patchs\AuthPatch.swf
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\sql_update\17_to_18.sql
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\Stump.GUI.AuthConsole.exe.config
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\Stump.GUI.AuthConsole.exe
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Run\Debug\AuthServer\Stump.GUI.AuthConsole.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\obj\Debug\Stump.GU.E45DB832.Up2Date
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\obj\Debug\Stump.GUI.AuthConsole.exe
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\obj\Debug\Stump.GUI.AuthConsole.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\GUI\Stump.GUI.AuthConsole\obj\Debug\Stump.GUI.AuthConsole.exe.config

@@ -1,0 +1,15 @@
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\obj\Debug\Stump.Core.csproj.AssemblyReference.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\obj\Debug\Stump.Core.csproj.CoreCompileInputs.cache
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\Stump.Core.dll.config
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\Stump.Core.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\Stump.Core.pdb
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\Stump.BaseCore.Framework.XML
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\MongoDB.Bson.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\MongoDB.Driver.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\MongoDB.Bson.xml
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\MongoDB.Driver.xml
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\bin\Debug\MongoDB.Driver.Core.xml
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\obj\Debug\Stump.Core.csproj.Up2Date
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\obj\Debug\Stump.Core.dll
+D:\DATA\Backups\SP\Servers\Dofus\Divers\2.71\emulateur 2.71\Core\Stump.Core\obj\Debug\Stump.Core.pdb
